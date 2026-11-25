@@ -5,7 +5,7 @@ HTML・CSS（SCSS）・JavaScript で実装した学習用のランディング�
 
 ## デモ
 
-https://あなたのユーザー名.github.io/coffee-shop-lp/
+https://rk.github.io/coffee-shop-lp/
 
 ## 使用技術
 

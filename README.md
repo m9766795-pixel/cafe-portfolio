@@ -5,7 +5,7 @@ HTML・CSS（SCSS）・JavaScript で実装した学習用のランディング�
 
 ## デモ
 
-https://github.com/m9766795-pixel/cafe-portfolio.git
+https://m9766795-pixel.github.io/cafe-portfolio/
 
 ## 使用技術
 
